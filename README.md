@@ -1,2 +1,2 @@
 # jsLander
-Landing page for lead gathering
+Landing page for lead gathering!
